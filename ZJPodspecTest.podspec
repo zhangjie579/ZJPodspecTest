@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'ZJPodspecTest'
-s.version      = '0.2'
+s.version      = '0.0.3'
 s.summary      = 'An easy way to test'
 s.homepage     = 'https://github.com/zhangjie579/ZJPodspecTest'
 #s.license      = 'MIT'
